@@ -14,8 +14,8 @@ export default async function SignInPage() {
         <div className=" flex items-center justify-center min-h-screen">
             <div className="w-full max-w-md">
                 <h1 className=" font-bold text-2xl">Sign In to continue</h1>
-                <SignInForm />
-                {/* <SignUpForm /> */}
+                {/* <SignInForm /> */}
+                <SignUpForm />
             </div>
         </div>
     )

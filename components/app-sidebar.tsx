@@ -55,7 +55,7 @@ const data = {
   ],
 }
 
-export default function Component() {
+export default function AppSidebar() {
   return (
     <SidebarProvider>
       <Sidebar>
